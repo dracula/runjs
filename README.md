@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [RunJS](https://runjs.app)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [RunJS](https://runjs.app).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/runjs](https://draculatheme.com/runjs).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/runjs/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
-| ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [![Zeno Rocha](https://github.com/zenorocha.png?size=75)](https://github.com/zenorocha) | [![lukehaas](https://github.com/lukehaas.png?size=75)](https://github.com/lukehaas) |
+| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Zeno Rocha](https://github.com/zenorocha)                                              | [Luke Haas](https://github.com/lukehaas)                                              |
 
 ## Community
 

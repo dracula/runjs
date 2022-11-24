@@ -1,17 +1,8 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+### [RunJS](https://runjs.app)
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Open the [RunJS](https://runjs.app) app.
+2. Click on `Preferences` in the app menu.
+3. Navigate to the `Appearance` tab within the `Preferences` window.
+4. Select the theme.
